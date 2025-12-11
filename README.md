@@ -1,6 +1,3 @@
-# scoop-bucket
-Scoop Bucket Manager For Email Sentinel
-
 # Scoop Bucket for Email Sentinel
 
 Official Scoop bucket for [Email Sentinel](https://github.com/datateamsix/email-sentinel).
